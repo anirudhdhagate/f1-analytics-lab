@@ -1,0 +1,130 @@
+WARNING:  Python 3.9.x is no longer officially supported by the Google Cloud CLI
+and may not function correctly. Please use Python version 3.10 and up.
+To reinstall gcloud, run:
+$ gcloud components reinstall
+
+This will also prompt to install a compatible version of Python.
+
+If you have a compatible Python interpreter installed, you can use it by setting
+the CLOUDSDK_PYTHON environment variable to point to it.
+
+WARNING:  Python 3.9.x is no longer officially supported by the Google Cloud CLI
+and may not function correctly. Please use Python version 3.10 and up.
+To reinstall gcloud, run:
+$ gcloud components reinstall
+
+This will also prompt to install a compatible version of Python.
+
+If you have a compatible Python interpreter installed, you can use it by setting
+the CLOUDSDK_PYTHON environment variable to point to it.
+
+[
+  {
+    "name": "grid",
+    "type": "INTEGER"
+  },
+  {
+    "name": "position",
+    "type": "INTEGER"
+  },
+  {
+    "name": "points",
+    "type": "FLOAT"
+  },
+  {
+    "name": "laps",
+    "type": "INTEGER"
+  },
+  {
+    "name": "fastestLap",
+    "type": "STRING"
+  },
+  {
+    "name": "driverId",
+    "type": "INTEGER"
+  },
+  {
+    "name": "driver_name",
+    "type": "STRING"
+  },
+  {
+    "name": "dob",
+    "type": "DATE"
+  },
+  {
+    "name": "driver_nationality",
+    "type": "STRING"
+  },
+  {
+    "name": "constructorId",
+    "type": "INTEGER"
+  },
+  {
+    "name": "constructor_name",
+    "type": "STRING"
+  },
+  {
+    "name": "constructor_nationality",
+    "type": "STRING"
+  },
+  {
+    "name": "raceId",
+    "type": "INTEGER"
+  },
+  {
+    "name": "race_year",
+    "type": "INTEGER"
+  },
+  {
+    "name": "race_round",
+    "type": "INTEGER"
+  },
+  {
+    "name": "race_name",
+    "type": "STRING"
+  },
+  {
+    "name": "race_date",
+    "type": "DATE"
+  },
+  {
+    "name": "circuitId",
+    "type": "INTEGER"
+  },
+  {
+    "name": "circuit_name",
+    "type": "STRING"
+  },
+  {
+    "name": "circuit_city",
+    "type": "STRING"
+  },
+  {
+    "name": "circuit_country",
+    "type": "STRING"
+  },
+  {
+    "name": "lat",
+    "type": "FLOAT"
+  },
+  {
+    "name": "lng",
+    "type": "FLOAT"
+  },
+  {
+    "name": "alt",
+    "type": "INTEGER"
+  },
+  {
+    "name": "statusId",
+    "type": "INTEGER"
+  },
+  {
+    "name": "race_status",
+    "type": "STRING"
+  },
+  {
+    "name": "failure_type",
+    "type": "STRING"
+  }
+]
