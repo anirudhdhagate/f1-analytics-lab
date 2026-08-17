@@ -18,7 +18,7 @@ Analyze how driver and constructor performance evolves over time and identify re
 * Circuit winner-diversity analysis
 
 ## Dashboard
-![alt text](<assets/F1 Analytics Lab — Performance Evolution & Circuit Dynamics.png>)
+![alt text](assets/f1-dashboard.png)
 
 ## Key findings
 
